@@ -1,3 +1,5 @@
-# Javascript
+# Notas de JavaScript 
 
-Notes for JS
+Notas de JavaScript
+
+https://edwin-p.com/
